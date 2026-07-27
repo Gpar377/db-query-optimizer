@@ -1,0 +1,12 @@
+# Bytecode, compiled files and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# IDE and System configurations
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
